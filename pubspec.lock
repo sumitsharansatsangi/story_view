@@ -90,11 +90,11 @@ packages:
     dependency: "direct main"
     description:
       path: flutter_cache_manager
-      ref: develop
-      resolved-ref: "18e731d90f28badcd5cd67f0d9d23aa613ef2358"
-      url: "https://github.com/Carapacik/flutter_cache_manager.git"
+      ref: HEAD
+      resolved-ref: b9503b004dea3f622d8823a0c32d47b86dce4878
+      url: "https://github.com/sumitsharansatsangi/flutter_cache_manager.git"
     source: git
-    version: "3.4.0"
+    version: "3.3.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -117,10 +117,10 @@ packages:
     dependency: transitive
     description:
       name: http
-      sha256: "4c3f04bfb64d3efd508d06b41b825542f08122d30bda4933fb95c069d22a4fa3"
+      sha256: "759d1a329847dd0f39226c688d3e06a6b8679668e350e2891a6474f8b4bb8525"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.1.0"
   http_parser:
     dependency: transitive
     description:
