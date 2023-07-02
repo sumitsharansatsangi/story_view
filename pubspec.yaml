@@ -15,7 +15,7 @@ dependencies:
       url: https://github.com/sumitsharansatsangi/flutter_cache_manager.git
       path: ./flutter_cache_manager
   rxdart: ^0.27.7
-  video_player: ^2.6.1
+  video_player: ^2.7.0
   collection: ^1.17.1
 
 dev_dependencies:
