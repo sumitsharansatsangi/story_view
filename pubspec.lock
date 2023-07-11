@@ -89,12 +89,11 @@ packages:
   flutter_cache_manager:
     dependency: "direct main"
     description:
-      path: flutter_cache_manager
-      ref: HEAD
-      resolved-ref: b9503b004dea3f622d8823a0c32d47b86dce4878
-      url: "https://github.com/sumitsharansatsangi/flutter_cache_manager.git"
-    source: git
-    version: "3.3.0"
+      name: flutter_cache_manager
+      sha256: "8207f27539deb83732fdda03e259349046a39a4c767269285f449ade355d54ba"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.3.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
