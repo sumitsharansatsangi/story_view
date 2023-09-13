@@ -5,18 +5,18 @@ homepage: https://github.com/blackmann/story_view
 publish_to: none
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: '>=3.1.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_cache_manager: ^3.3.1  
-  # flutter_cache_manager:
-  #   git: 
-  #     url: https://github.com/sumitsharansatsangi/flutter_cache_manager.git
-  #     path: ./flutter_cache_manager
+  flutter_cache_manager:
+    git: 
+      url: https://github.com/sumitsharansatsangi/flutter_cache_manager.git
+      path: flutter_cache_manager
   rxdart: ^0.27.7
-  video_player: ^2.7.0
+  video_player: 
+    git: https://github.com/kumsumit/video_player.git
   collection: ^1.17.1
 
 dev_dependencies:
